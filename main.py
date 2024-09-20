@@ -9,7 +9,6 @@ train = pd.read_csv('C:/Users/harin/Downloads/train.csv')
 
 # Display the first few rows of the dataset
 print(train.head())
-
 # Basic information about the dataset
 print(train.info())
 
